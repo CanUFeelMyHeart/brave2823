@@ -78,3 +78,4 @@ git commit -a -m "Added description of git commit command" '''
 | ------- | ----------- |
 | `git push origin [branch name]` | Отправить ветку в удаленный репозиторий |
 | `git push -u origin [branch name]` | Отправить изменения в удаленный репозиторий (и запомнить ветку) |
+| `git push` | Отправить изменения в удаленный репозиторий (сохраненная ветка) |
