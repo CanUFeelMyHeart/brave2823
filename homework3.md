@@ -76,3 +76,4 @@ git commit -a -m "Added description of git commit command" '''
 ### Работа с удпленными репозиториями
 | Комманда | Описание |
 | ------- | ----------- |
+| `git push origin [branch name]` | Отправить ветку в удаленный репозиторий |
