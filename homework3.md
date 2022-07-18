@@ -80,3 +80,4 @@ git commit -a -m "Added description of git commit command" '''
 | `git push -u origin [branch name]` | Отправить изменения в удаленный репозиторий (и запомнить ветку) |
 | `git push` | Отправить изменения в удаленный репозиторий (сохраненная ветка) |
 | `git push origin --delete [branch name]` | Стереть удаленную ветку |
+| `git pull` | Обновить локальный репозиторий до последнего коммита|
