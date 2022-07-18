@@ -72,3 +72,7 @@ git commit -a -m "Added description of git commit command" '''
 | `git checkout -` | Переключиться на предыдущую ветку|
 | `git merge [branch name]` | Слить ветку с активной веткой |
 | `git merge [source branch] [target branch]` | Слить ветки по наименованиям |
+
+### Работа с удпленными репозиториями
+| Комманда | Описание |
+| ------- | ----------- |
