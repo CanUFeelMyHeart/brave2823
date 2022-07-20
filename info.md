@@ -6,4 +6,6 @@ git clone URL
 11111111111111111111111
 
 git pull
-fork
+
+if you want to clone external repository, you need to use next command:
+> git clone URL
