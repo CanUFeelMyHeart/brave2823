@@ -13,3 +13,5 @@ if you want to clone external repository, you need to use next command:
 if you want to fetch changes and merge them to local version, you need to use:
 > git pull
 
+for send local repository to external use:
+> git push
