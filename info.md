@@ -1,8 +1,8 @@
 ## Привет, Гитхабп
 
-git clone URL
+__git clone__ URL
 
 Здесь будет конфликт)  
 11111111111111111111111
 
-git pull
+__git pull__
